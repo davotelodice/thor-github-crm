@@ -2,7 +2,7 @@
 
 Esta guía te ayudará a configurar el workflow de n8n para el flujo de envío de emails a leads.
 
-## Prerequisitos
+## Prerequisitos:
 
 1. **Cuenta de n8n**: Debes tener una cuenta activa en n8n (self-hosted o cloud)
 2. **Credenciales de Email Provider**: 
